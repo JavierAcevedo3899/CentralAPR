@@ -1,4 +1,1 @@
-# CentralAPR
-Sistema electronico que permite controlar y monitoriar Sistemas de agua potable.
-como detetar niveles de agua. estre otras cosas
-Se va a incorporar un nuevo texto
+VimCrypt~03!Òw?á!E«XÝâö…áŒ(Mèx°ÎÐ»úy¹ùàòK¨9à–óVVBÖ;«?Öó‡v©Ÿî‰Pîæ—5Wÿ†>îœÒÒôlˆÆÓžâ/KR[áA«x$°ÜU4©/7ÐjÉd=}ÂmêÀºp¶®f×ßÇZ½EÌ[ƒÿðÌ¼vÅâ‹é&$€H–V­³¬„`ÓÙ&š|È)ÏÝË×-ØßÜ{±]èD
